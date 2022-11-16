@@ -1,0 +1,96 @@
+Latop 1
+LAPTOP ASUS VIVOBOOK 15 X1502ZA-BQ183W INTEL CORE I7 8GB RAM 512GB SSD 15.6"
+Características destacadas
+Procesador: Intel Core i7
+Memoria RAM: 8GB
+Disco duro: 512GB
+Tarjeta gráfica: Intel UHD Graphics
+Tipo de disco duro: SSD
+Sistema operativo	Windows 11 Home
+Velocidad Procesador (GHz)	2.1GHz
+Tamaño de la pantalla	15.6"
+Tipo de pantalla	FHD
+Pantalla Touch	No
+Resolución de la pantalla	1920x1080
+Tipo Procesador	Intel Core i7-1260P
+S/ 4,499
+
+Laptop 2
+LAPTOP HP 15DY5010LA INTEL CORE I7 12GB RAM 512GB SSD 15.6''
+Características destacadas
+Procesador: Intel Core i7
+Memoria RAM: 12GB
+Disco duro: 512GB
+Tarjeta gráfica: Integrada
+Tipo de disco duro: SSD
+Tarjeta gráfica	Integrada
+Sistema operativo	Windows 11 Home
+Velocidad Procesador (GHz)	Hasta 4.7 GHz
+Tipo de pantalla	HD
+Pantalla Touch	No
+Resolución de la pantalla	1366 x 768
+Tipo Procesador	Intel Core i7-1255U
+S/ 3,399
+
+Laptop 3
+LAPTOP GAMER ASUS TUF DASH F15 FX517ZC-HN005W INTEL CORE I5 12450H 8GB RAM 512GB SSD 15.6''
+Características destacadas
+Procesador: Intel Core i5
+Memoria RAM: 8GB
+Disco duro: 512GB
+Tarjeta gráfica: NVIDIA GeForce RTX 3050
+Tipo de disco duro: SSD
+Tarjeta gráfica	NVIDIA GeForce RTX 3050
+Sistema operativo	Windows 11 Home
+Velocidad Procesador (GHz)	2.0GHz
+Tamaño de la pantalla	15.6''
+Tipo de pantalla	FHD
+Pantalla Touch	No
+Resolución de la pantalla	1920 x 1080
+Tipo Procesador	Intel Core i5-12450H
+S/ 5,399
+
+Equipo 1
+PC Gamer Falkor Ryzen 9-5900x
+CPU AMD Ryzen 9 5900X
+3.5 GHz, 6 MB L2, 64MB L3 12 Núcleos, 24 Hilos
+Disco Duro 2TB
+Disco Sólido SSD 1TB M2 NVME
+Memoria RAM 32GB DDR4/ 3200 MHz
+Mainboard X570
+Monitor 27″FHD Curvo 144HZ
+Tarjeta de Video RX6700XT 12GB GDDR6
+DVI/ HDMI/ Display Port / Wifi
+Teclado mecánico, mouse Logitech G203, auricular logitech g335
+Enfriamiento liquido 240R
+Fuente Certificada 750 W
+S/ 12,999
+
+Equipo 2
+PC Gamer Falkor PLUS Ryzen 7-3700X
+CPU AMD Ryzen 7 3700X
+3.6 GHz, 16 MB L3, 8 Núcleos, 16 Hilos
+Disco duro HDD 2TB
+Disco Sólido SSD  500 GB M2 NVME
+Memoria RAM 16GB DDR4/ 2666 MHz
+Mainboard B550
+Monitor Samsung C27G55T 27"FHD Curvo 144HZ
+Tarjeta de Video Nvidia RTX3060 12GB
+DVI/ HDMI/ Display Port / Wifi
+Teclado mecánico, mouse Logitech G203, auricular logitech g335
+Fuente Certificada 700 W
+S/ 7,999
+
+Equipo 3
+PC Gamer Hydra Ryzen 5 5600x
+CPU AMD Ryzen 5 5600x
+3.6GHz, 4MB L2, 8 Núcleos, 16 Hilos
+Disco Sólido SSD 500GB M2 NVME
+Memoria RAM 16GB DDR4/ 2666 MHz
+Monitor 24" Curvo FHD
+Mainboard B550
+Tarjeta de Video GTX1660 super  6GB
+DVI/ HDMI / Display Port / Wifi
+Teclado mecánico, mouse
+Fuente certificada 700w 80 plus
+S/ 4,699
